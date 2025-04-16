@@ -8,7 +8,7 @@
 1. import socket
 2. import sys
 ## How to Run
-1. Have two instances of your shell
+1. Must have two instances of your shell running
 2. Start the server in one shell with the following command and port number of choice:
    ```python
    python3 server.py <port number>
