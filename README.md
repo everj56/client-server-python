@@ -1,9 +1,9 @@
 # client-server-python
 ## Required to use Python3
 ## Required libraries for server.py
-import socket
-import random
-import sys
+1. import socket
+2. import random
+3. import sys
 ## Required libraries for server.py
 1. import socket
 2. import sys
