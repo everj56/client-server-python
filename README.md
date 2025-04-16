@@ -5,8 +5,8 @@ import socket
 import random
 import sys
 ## Required libraries for server.py
-* import socket
-* import sys
+** import socket
+'''import sys
 ## How to Run
 1. Have two instances of your shell
 2. Start the server in one shell with the following command and port number of choice: python3 server.py <port>
